@@ -1,0 +1,14 @@
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\bin\Debug\netstandard2.0\Ejercicio13.deps.json
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\bin\Debug\netstandard2.0\Ejercicio13.dll
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\Ejercicio13.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\Ejercicio13.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\Ejercicio13.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\Ejercicio13.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\views\TodoItemPage.xaml.g.cs
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\views\TodoListPage.xaml.g.cs
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\bin\Debug\netstandard2.0\Ejercicio13.pdb
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\Ejercicio13.dll
+C:\Users\Alumno\source\repos\Ejercicio13\Ejercicio13\obj\Debug\netstandard2.0\Ejercicio13.pdb
